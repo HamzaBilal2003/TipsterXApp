@@ -1,0 +1,19 @@
+<Svg style={styles.shape} viewBox="0 0 250 140" preserveAspectRatio="none">
+            <Path
+              d="
+              M 10 40
+              Q 10 10 40 10
+              L 100 10
+              Q 120 10 130 25
+              L 140 40
+              H 220
+              Q 240 40 240 60
+              V 110
+              Q 240 130 220 130
+              H 30
+              Q 10 130 10 110
+              Z
+            "
+              fill="#2B2B2B"
+            />
+          </Svg>
